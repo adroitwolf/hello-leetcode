@@ -1,4 +1,4 @@
-package com.adrotiwolf.easy;
+package com.adroitwolf.easy;
 
 /**
  * Created with IntelliJ IDEA.

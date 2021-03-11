@@ -1,4 +1,4 @@
-package com.adrotiwolf.easy;
+package com.adroitwolf.easy;
 
 import java.util.HashMap;
 import java.util.Map;
